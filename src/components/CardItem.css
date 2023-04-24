@@ -1,0 +1,14 @@
+.card{
+    transition: all 0.3s ease-out;
+}
+.card:hover{
+    transform: scale(1.05);
+}
+.card-status{
+    position: absolute;
+    top:320px;
+    left: 10px;
+    background-color: blueviolet;
+    color: white;
+    border-radius: 2px;
+}
